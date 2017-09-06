@@ -10,7 +10,7 @@ int main(void)
     {printf a
         };
   if(チョキ)
-    {printf i
+    {printf i//Fix it 
         }
   
     
